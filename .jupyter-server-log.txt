@@ -54,3 +54,35 @@ TermSocket.open: Opened 1
 [I 12:26:05.538 NotebookApp] New terminal with automatic name: 2
 TermSocket.open: 2
 TermSocket.open: Opened 2
+[I 12:30:22.184 NotebookApp] Starting buffering for c5dd24d1-27c7-41ed-ad00-f44e6f722bab:580ef8f978e84816b46af0749729e5a6
+[I 12:30:40.559 NotebookApp] EOF on FD 32; stopping reading
+[I 12:30:40.660 NotebookApp] Terminal 1 closed
+Websocket closed
+[I 12:30:41.413 NotebookApp] EOF on FD 43; stopping reading
+[I 12:30:41.514 NotebookApp] Terminal 2 closed
+Websocket closed
+[I 12:30:42.316 NotebookApp] Kernel shutdown: c5dd24d1-27c7-41ed-ad00-f44e6f722bab
+[I 12:30:48.652 NotebookApp] New terminal with automatic name: 1
+TermSocket.open: 1
+TermSocket.open: Opened 1
+[I 12:34:52.517 NotebookApp] Creating new notebook in 
+[I 12:34:53.888 NotebookApp] Kernel started: 2aa3c66e-7bd4-43f4-9e84-5f226038b5c7, name: ir
+[I 12:34:54.870 NotebookApp] Adapting from protocol version 5.0 (kernel 2aa3c66e-7bd4-43f4-9e84-5f226038b5c7) to 5.3 (client).
+[W 12:35:01.551 NotebookApp] Notebook Assignment1_R.ipynb is not trusted
+[I 12:35:01.897 NotebookApp] Kernel started: 3f7756d3-b43f-4a6c-a3cc-c7d2db37a03f, name: ir
+[I 12:35:02.934 NotebookApp] Adapting from protocol version 5.0 (kernel 3f7756d3-b43f-4a6c-a3cc-c7d2db37a03f) to 5.3 (client).
+[I 12:35:04.736 NotebookApp] Saving file at /Assignment1_R.ipynb
+[W 12:35:04.737 NotebookApp] Notebook Assignment1_R.ipynb is not trusted
+[W 12:35:13.297 NotebookApp] Notebook Assignment1_R.ipynb is not trusted
+[I 12:36:55.735 NotebookApp] Saving file at /Untitled.ipynb
+[W 12:38:55.513 NotebookApp] Notebook Untitled.ipynb is not trusted
+[I 12:38:55.846 NotebookApp] Adapting from protocol version 5.0 (kernel 2aa3c66e-7bd4-43f4-9e84-5f226038b5c7) to 5.3 (client).
+[I 12:40:55.759 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:42:55.784 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:44:55.758 NotebookApp] Saving file at /Untitled.ipynb
+[W 12:45:59.028 NotebookApp] Culling 'idle' kernel 'ir' (3f7756d3-b43f-4a6c-a3cc-c7d2db37a03f) with 1 connections due to 655 seconds of inactivity.
+[I 12:45:59.029 NotebookApp] Kernel shutdown: 3f7756d3-b43f-4a6c-a3cc-c7d2db37a03f
+[I 12:46:55.762 NotebookApp] Saving file at /Untitled.ipynb
+[I 12:47:10.285 NotebookApp] New terminal with automatic name: 2
+TermSocket.open: 2
+TermSocket.open: Opened 2
