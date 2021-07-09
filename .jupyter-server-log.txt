@@ -86,3 +86,9 @@ TermSocket.open: Opened 1
 [I 12:47:10.285 NotebookApp] New terminal with automatic name: 2
 TermSocket.open: 2
 TermSocket.open: Opened 2
+[W 12:56:59.029 NotebookApp] Culling 'idle' kernel 'ir' (2aa3c66e-7bd4-43f4-9e84-5f226038b5c7) with 2 connections due to 654 seconds of inactivity.
+[I 12:56:59.030 NotebookApp] Kernel shutdown: 2aa3c66e-7bd4-43f4-9e84-5f226038b5c7
+TermSocket.open: 2
+TermSocket.open: Opened 2
+TermSocket.open: 1
+TermSocket.open: Opened 1
